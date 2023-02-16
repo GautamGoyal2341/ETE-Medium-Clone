@@ -1,7 +1,7 @@
 {
   "name": "medium-clone-3.0",
   "version": "1.0.0",
-  "description": "Medium Clone 3.0 tutorial - created by codewithakky",
+  "description": "Medium",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akkySrivastava/medium3.0-mern.git"
+    "url": "git+https://github.com/medium3.0-mern.git"
   },
   "keywords": [
     "medium",
@@ -20,12 +20,12 @@
     "mern",
     "mernstack"
   ],
-  "author": "codewithakky",
+  "author": "codew",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/akkySrivastava/medium3.0-mern/issues"
+    "url": "https://github.com/Srivastava/medium3.0-mern/issues"
   },
-  "homepage": "https://github.com/akkySrivastava/medium3.0-mern#readme",
+  "homepage": "https://github.com/aySrivastava/medium3.0-mern#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.0",
